@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>Prashant</title>
+</head>
+<body>
+<h1>Header1</h1>
+<h2>header2</h2>
+<h3>header3</h3>
+<h4>header4</h4>
+<h5>header5</h5>
+<h6>header6</h6>
+<p>this is paragraph</p>
+<b>This is bold text</b><br/><br/>
+<i>this is italics</i><br/><br/>
+<u>this is underline</u><br/><br/>
+<small>this is small</small><br/><br/>
+<strike>this text is striked</strike><br/><br/>
+<del>this is delete tag</del><br/><br/>
+<p>log<sub>10</sub></p>
+<p>23<sup>3</sup> x 3<sup>2</sup> = </p>
+<a href="https://eztrainings.net/">this my website link</a>
+<pre>  this
+ is      prashant</pre>
+
+<form>
+
+<input type="text" placeholder="First name"/>
+
+<br/><br/>
+
+<input type="text" placeholder="last name"/>
+
+<br/><br/>
+
+<input type="password" placeholder="Password" />
+
+<br/><br/>
+
+<input type="number" placeholder="phone" />
+
+<br/><br/>
+
+<input type="email" placeholder="email"/>
+
+<br/><br/>
+
+Date of birth <input type="date"/>
+<br/><br/>
+
+
+address<textarea placeholder="Address"></textarea>
+
+<br/><br/>
+dress color:
+<select>
+<option>Select an option</option>
+<option>Red</option>
+<option>Blue</option>
+<option>Green</option>
+</select>
+
+<br/></br>
+choose your picture
+
+<input type="file"  />
+<br/></br>
+salary range:
+<input type="range"/>
+
+<br/><br/>
+gender:<br/>
+male<input type="radio" />
+Female<input type="radio" />
+
+<br/></br>
+
+courses:<br/>
+PHP<input type="checkbox" />
+HTML<input type="checkbox" />
+
+<br/><br/>
+<button type="button" >Click me</button>
+
+</form>
+
+
+
+<table border=1 >
+
+	<tr>
+		<th>
+		  heading1
+		</th>
+		<th>
+		  heading2
+		</th>
+		<th>
+		  heading3
+		</th>
+	</tr>
+	<tr>
+		<td>
+		  col1
+		</td>
+		<td>
+		  col2
+		</td>
+		<td>
+		  col3
+		</td>
+	</tr>
+	<tr>
+		<td>
+		  col1
+		</td>
+		<td>
+		  col2
+		</td>
+		<td>
+		  col3
+		</td>
+	</tr>
+	<tr>
+		<td>
+		  col1
+		</td>
+		<td>
+		  col2
+		</td>
+		<td>
+		  col3
+		</td>
+	</tr>
+	<tr>
+		<td>
+		  col1
+		</td>
+		<td>
+		  col2
+		</td>
+		<td>
+		  col3
+		</td>
+	</tr>
+
+</table>
+
+</body>
+</html>

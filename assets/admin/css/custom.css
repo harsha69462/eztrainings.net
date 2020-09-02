@@ -1,0 +1,27 @@
+.image-adjust{
+  height: 150px;
+}
+.input-with-icon > i{
+  position: absolute;
+  right: 30px;
+  top: 15px;
+}
+.w-30{
+  width: 130px;
+}
+.bg-black-primary{
+  background: #2f2f2f;
+}
+.bg-orange-primary{
+  background-color: #ff3115 !important;
+}
+.orange-primary-button{
+  background-color: #ff3115 !important;
+  border-color: #ff3115 !important;
+}
+.course-list > li{
+  list-style-type: inherit;
+}
+.w-250{
+  width: 250px;
+}
